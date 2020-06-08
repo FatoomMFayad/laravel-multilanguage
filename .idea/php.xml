@@ -100,6 +100,7 @@
       <path value="$PROJECT_DIR$/multi-language/vendor/phpoption/phpoption" />
       <path value="$PROJECT_DIR$/multi-language/vendor/egulias/email-validator" />
       <path value="$PROJECT_DIR$/multi-language/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/multi-language/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
